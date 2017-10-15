@@ -12,3 +12,6 @@ This project uses a Recurrent Neural Network to generate a TV script. The neural
 
 ## Generate Faces
 This project uses Generative Adversarial Networks to generate new images of faces
+
+## Translation
+Uses a Neural Network to translate from English to French. Here  a sequence to sequence model is trained on a dataset of English and French sentences that can translate new sentences from English to French.
